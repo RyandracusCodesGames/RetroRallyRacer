@@ -1,6 +1,5 @@
 # RetroRallyRacer
 An open-source 3D game engine designed to facilitate fully textured polygonal graphics for a racing tech demo that is built from the ground up and software rendered.
-An open-source 3D game engine designed to facilitate fully textured polygonal graphics for a racing tech demo that is built from the ground up and software rendered.
 ## About
 Retro Rally Racer is the name of this tech demo to demonstrate the full technical skills that I currently possess in three-dimensional graphics programming. The game aims to simulate a popular subgenre of racing games from the 5th generation console era with a low screen resolution, low-resolution textures, low polygon game objects, sprites to simulate character models, and a cheesy soundtrack to help bring back the wonderfully awful game music of that era.
 ## Details of the engine
