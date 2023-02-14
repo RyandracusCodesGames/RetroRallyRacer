@@ -22,7 +22,7 @@ As I mentioned previously, the purpose of this demo is to illustrate the full ra
 * Unfinished collision system
 * Map editor and loader to process maps in an efficient manner in the game.
 * Currently supports up to 19 different game objects to build your own maps.
-##Projection Progression Still In Early Development Stage
+## Projection Progression Still In Early Development Stage
 ## Demo Project Examples
 ![img1](https://user-images.githubusercontent.com/108719757/218852164-c9c1e1eb-289c-4be9-bd86-b95a5e9b1736.png)
 ![img4](https://user-images.githubusercontent.com/108719757/218852430-b8161adb-0902-4121-86ab-1d117da453bd.png)
